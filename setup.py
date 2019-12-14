@@ -52,7 +52,7 @@ setup(
         "gspread==3.1.0",
         "oauth2client==4.1.3",
         "pyjwt==1.7.1",
-        "tablib==0.14.0"
+        "tablib==0.13.0"
     ],
     extras_require={},
     classifiers=[
